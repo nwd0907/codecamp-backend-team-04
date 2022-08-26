@@ -1,0 +1,1 @@
+console.log("마이보드")
