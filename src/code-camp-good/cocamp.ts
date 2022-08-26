@@ -1,0 +1,7 @@
+class CoCamp {
+    constructor(){
+
+    }
+
+    
+}
